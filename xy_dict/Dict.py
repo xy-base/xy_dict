@@ -305,7 +305,7 @@ class Dict:
 
 # import json
 
-# json_file_path = "/home/余洋/workspace/beachstudio/business/tb101_cloudphone/development/tb101_cp_server/tb101_cp_server/assets/cloud_mobile_urls.json"
+# json_file_path = "/home/yuyangit/workspace/beachstudio/business/tb101_cloudphone/development/tb101_cp_server/tb101_cp_server/assets/cloud_mobile_urls.json"
 
 
 # def content():

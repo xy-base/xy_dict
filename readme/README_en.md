@@ -1,7 +1,7 @@
 <!--
- * @Author: yuyanget yuyangit.0515@qq.com
+ * @Author: yuyangit yuyangit.0515@qq.com
  * @Date: 2024-10-18 13:21:27
- * @LastEditors: yuyanget yuyangit.0515@qq.com
+ * @LastEditors: yuyangit yuyangit.0515@qq.com
  * @LastEditTime: 2024-10-24 19:51:45
  * @FilePath: /xy_dict/readme/README_en.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
