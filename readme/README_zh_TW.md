@@ -23,6 +23,7 @@
 ## 安裝
 
 ```bash
+# bash
 pip install xy_dict
 ```
 
