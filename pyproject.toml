@@ -9,7 +9,7 @@ requires-python = ">=3.11.3"
 name = "xy_dict"
 
 authors = [{ name = "余洋", email = "yuyangit.0515@qq.com" }]
-description = "xy_dict 模块"
+description = "xy_dict 字典模块"
 
 dynamic = ["version"]
 
